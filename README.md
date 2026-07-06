@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi there, I'm Samriddhi 👋
 
-<!--
-**samriddhisrivastava029-netizen/samriddhisrivastava029-netizen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+💡 Curious Learner | Building Projects & Growing Every Day | Turning Ideas into Code
 
-Here are some ideas to get you started:
+💻 Currently Learning
+- C Programming
+- Python
+- Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎯 Career Goal
+Become a Data Scientist and build AI solutions that solve real-world problems.
+
+🌱 Current Focus
+- Strengthening programming fundamentals
+- Building projects
+- Improving problem-solving skills
+
+## 🛠️ Tech Stack
+- C
+- Python
+- Git
+- GitHub
+
+## 📫 Connect With Me
+LinkedIn:
+https://www.linkedin.com/in/samriddhi-srivastava
